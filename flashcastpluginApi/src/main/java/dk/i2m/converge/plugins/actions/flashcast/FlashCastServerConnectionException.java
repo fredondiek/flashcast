@@ -4,10 +4,13 @@
  */
 package dk.i2m.converge.plugins.actions.flashcast;
 
+import dk.i2m.converge.core.annotations.OutletAction;
+
 /**
  *
  * @author fred
  */
+@OutletAction
 public class FlashCastServerConnectionException {
     
 }
